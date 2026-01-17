@@ -10,3 +10,8 @@ The HDL to create the SOC can be found in [this repo](https://github.com/david-l
 Scrap this. There is no reason to do this.
 
 
+## Credits
+
+   - PicoRV32 Core: Clifford Wolf / YosysHQ
+   - Board: Terasic Cyclone V GX Starter Kit
+   - Gemini LLM
